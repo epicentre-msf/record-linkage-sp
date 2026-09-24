@@ -1,0 +1,20 @@
+# Sensitive data -- never commit
+data-raw/
+data-derived/
+data-derived-archive/
+.Renviron
+
+output/
+
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+.vscode/
+.venv/
+
+*_files/
+*.html
+
+CLAUDE.md
+__pycache__/
